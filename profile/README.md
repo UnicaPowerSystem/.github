@@ -12,8 +12,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/UnicaPowerSystem/profile">
-    <img src="logo-unica.jpg" alt="Logo" width="150" height="150">
+  <a href="https://github.com/UnicaPowerSystem/profile/">
+    <img src="logo-unica.jpg" alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">Power System Group - Università di Cagliari</h3>
@@ -34,7 +34,7 @@
   <ol>
     <li><a href="#about-the-group">About The Group</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Work With</a></li>
       </ul>
       <li><a href="#mathematical-formulation">The Optimisation Problems</a>
       <ul>
