@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/MarcoGalici/MKT_Comparison/">
-    <img src="figures/logo-icai.png" alt="Logo" width="400" height="150">
+    <img src="figures/Logo_Università_di_Cagliari.jpg" alt="Logo" width="400" height="150">
   </a>
 
 <h3 align="center">Market Pricing and Clearing Comparison - Comillas / UniCa</h3>
