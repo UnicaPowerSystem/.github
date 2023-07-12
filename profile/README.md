@@ -1,10 +1,7 @@
 ## Hey, this is the Power System Group from University of Cagliari 👋
-[![Contributors][contributors-shield1]][contributors-url1]
+
 [![Contributors][contributors-shield2]][contributors-url2]
-[![Contributors][contributors-shield3]][contributors-url3]
-[![LinkedIn 1st Author][linkedin-shield1]][linkedin-url-1st]
 [![LinkedIn 2nd Author][linkedin-shield2]][linkedin-url-2nd]
-[![LinkedIn 3rd Author][linkedin-shield3]][linkedin-url-3rd]
 
 
 
@@ -81,19 +78,11 @@ The Power System Group of the University of Cagliari work on the following topic
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 <!-- To create your personalise shield go to: https://shields.io/ -->
-[contributors-shield1]: https://img.shields.io/badge/Contributors-Matteo%20Troncia-orange
-[contributors-url1]: https://www.iit.comillas.edu/people/mtroncia
 [contributors-shield2]: https://img.shields.io/badge/Contributors-Marco%20Galici-green
 [contributors-url2]: https://www.researchgate.net/profile/Marco-Galici
-[contributors-shield3]: https://img.shields.io/badge/Contributors-Jose_Pablo_Chaves_Avila-skyblue
-[contributors-url3]: https://www.iit.comillas.edu/personas/jchaves
 
-[linkedin-shield1]: https://img.shields.io/badge/LinkedIn-ID--Matteo%20Troncia-blue
-[linkedin-url-1st]: https://es.linkedin.com/in/matteotroncia
 [linkedin-shield2]: https://img.shields.io/badge/LinkedIn-ID--Marco%20Galici-lightgrey
 [linkedin-url-2nd]: https://it.linkedin.com/in/marco-galici-493069190
-[linkedin-shield3]: https://img.shields.io/badge/LinkedIn-ID--Jose_Pablo_Chaves_Avila-springgreen
-[linkedin-url-3rd]: https://www.linkedin.com/in/jose-pablo-chaves-avila-06774084
 
 [Python-shield]: https://img.shields.io/badge/Python-py-green
 [Python-url]: https://www.python.org/
