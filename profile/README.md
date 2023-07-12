@@ -16,19 +16,13 @@
     <img src="figures/Logo_Università_di_Cagliari.jpg" alt="Logo" width="400" height="150">
   </a>
 
-<h3 align="center">Market Pricing and Clearing Comparison - Comillas / UniCa</h3>
+<h3 align="center">Università di Cagliari</h3>
 
   <p align="center">
-    Comparison of Nodal Pricing, Auction and Double Auction market with complex bids for Local Electricity Markets
     <br />
-    <a href="https://github.com/MTr87/MKT_Comparison/tree/main/docs"><strong>Explore the docs »</strong></a>
+    <a href="https://web.unica.it/unica/en/dip_ingelettrica.page"><strong>Discover the group »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/MTr87/MKT_Comparison/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
 </div>
 
