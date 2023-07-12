@@ -2,7 +2,6 @@
 [![Contributors][contributors-shield1]][contributors-url1]
 [![Contributors][contributors-shield2]][contributors-url2]
 [![Contributors][contributors-shield3]][contributors-url3]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn 1st Author][linkedin-shield1]][linkedin-url-1st]
 [![LinkedIn 2nd Author][linkedin-shield2]][linkedin-url-2nd]
 [![LinkedIn 3rd Author][linkedin-shield3]][linkedin-url-3rd]
@@ -77,37 +76,6 @@ The Power System Group of the University of Cagliari work on the following topic
 <!-- <p align="right"><a href="#top">🔼 Back to top</a></p> -->
 
 
-<!-- ROADMAP -->
-## Roadmap
-
-- [X] DLMP Implementation
-- [X] Auction-based with complex bids
-    - [X] Flexi & Linked orders for Storage
-    - [ ] Complex orders for Generators
-    - [X] Complex orders for Demand Response
-- [X] Complex bids review
-    - [X] Ramping
-    - [X] Indivisibility
-    - [X] Loop blocks
-    - [X] Iceberg order
-    - [X] Linked block orders
-    - [X] Flexi block orders
-    - [X] User-defined block orders
-- [X] Complex bids implementation
-    - [X] Python Version
-- [ ] Continuous trading with simple bids
-- [ ] Build scenario
-    - [ ] Network
-    - [ ] Prices
-    - [ ] Resources & Profiles
-    - [ ] Agent's behaviour
-- [ ] Make assessment
-- [ ] Analyse the results
-- [ ] Write the paper
-- [ ] Intelligent agents
-
-<p align="right"><a href="#top">🔼 Back to top</a></p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -119,16 +87,14 @@ The Power System Group of the University of Cagliari work on the following topic
 [contributors-url2]: https://www.researchgate.net/profile/Marco-Galici
 [contributors-shield3]: https://img.shields.io/badge/Contributors-Jose_Pablo_Chaves_Avila-skyblue
 [contributors-url3]: https://www.iit.comillas.edu/personas/jchaves
-[license-shield]: https://img.shields.io/badge/License-BSD_3_Clause-yellow
-<!--https://img.shields.io/badge/License-MIT-yellow-->
-[license-url]: https://github.com/MTr87/MKT_Comparison/blob/main/LICENSE
+
 [linkedin-shield1]: https://img.shields.io/badge/LinkedIn-ID--Matteo%20Troncia-blue
 [linkedin-url-1st]: https://es.linkedin.com/in/matteotroncia
 [linkedin-shield2]: https://img.shields.io/badge/LinkedIn-ID--Marco%20Galici-lightgrey
 [linkedin-url-2nd]: https://it.linkedin.com/in/marco-galici-493069190
 [linkedin-shield3]: https://img.shields.io/badge/LinkedIn-ID--Jose_Pablo_Chaves_Avila-springgreen
 [linkedin-url-3rd]: https://www.linkedin.com/in/jose-pablo-chaves-avila-06774084
-[product-screenshot]: images/screenshot.png
+
 [Python-shield]: https://img.shields.io/badge/Python-py-green
 [Python-url]: https://www.python.org/
 [Gurobi-shield]: https://img.shields.io/badge/Gurobi-py-red
