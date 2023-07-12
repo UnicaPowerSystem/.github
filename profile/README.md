@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/MarcoGalici/MKT_Comparison/">
+  <a href="https://github.com/UnicaPowerSystem/">
     <img src="profile/figures/Logo_Università_di_Cagliari.jpg" alt="Logo" width="400" height="150">
   </a>
 
