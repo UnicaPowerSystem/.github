@@ -12,8 +12,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/UnicaPowerSystem/">
-    <img src="profile/figures/Logo_Università_di_Cagliari.jpg" alt="Logo" width="400" height="150">
+  <a href="https://github.com/UnicaPowerSystem/profile">
+    <img src="Logo_Università_di_Cagliari.jpg" alt="Logo" width="400" height="150">
   </a>
 
 <h3 align="center">Università di Cagliari</h3>
