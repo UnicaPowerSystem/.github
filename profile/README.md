@@ -13,10 +13,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/UnicaPowerSystem/profile">
-    <img src="Logo_Università_di_Cagliari.jpg" alt="Logo" width="400" height="150">
+    <img src="logo-unica.jpg" alt="Logo" width="150" height="150">
   </a>
 
-<h3 align="center">Università di Cagliari</h3>
+<h3 align="center">Power System Group - Università di Cagliari</h3>
 
   <p align="center">
     <br />
