@@ -30,6 +30,7 @@
       <ul>
         <li><a href="#the-power-system-group-work-with">We work with with</a></li>
       </ul>
+    <li><a href="#members">Members</a></li>
   </ol>
 </details>
 
@@ -62,6 +63,26 @@ The Power System Group of the University of Cagliari work on the following topic
 * [![OpenDSS][OpenDSS-shield]][OpenDSS-url]
 * [![DIgSILENT][DIgSILENT-shiled]][DIgSILENT-url]
 * [![RSCAD][RSCAD-shield]][RSCAD-url]
+
+<p align="right"><a href="#top">🔼 Back to top</a></p>
+
+
+<!-- Members -->
+## Members
+<table>
+  <tr>
+    <td><img src="screenshots/Screenshot_1582745092.png" width=270 height=480></td>
+    <td><img src="screenshots/Screenshot_1582745125.png" width=270 height=480></td>
+    <td><img src="screenshots/Screenshot_1582745139.png" width=270 height=480></td>
+  </tr>
+  <tr>
+    <div align="center">
+    <td>First Screen Page</td>
+    <td>Holiday Mention</td>
+    <td>Present day in purple and selected day in pink</td>
+  </tr>
+ </table>
+
 
 <p align="right"><a href="#top">🔼 Back to top</a></p>
 
