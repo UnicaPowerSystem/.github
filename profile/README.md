@@ -71,15 +71,40 @@ The Power System Group of the University of Cagliari work on the following topic
 ## Members
 <table>
   <tr>
-    <td><img src="https://github.com/UnicaPowerSystem/.github/blob/main/profile/Pilo_photo.png" width=270 height=270></td>
-    <td><img src="https://github.com/UnicaPowerSystem/.github/blob/main/profile/Ghiani_photo.png" width=270 height=270></td>
-    <td><img src="https://github.com/UnicaPowerSystem/.github/blob/main/profile/Celli_photo.png" width=270 height=270></td>
+    <td><img src="https://github.com/UnicaPowerSystem/.github/blob/main/profile/Pilo_photo.png" width=270 height=270 title="FabrizioPilo"></td>
+    <td><img src="https://github.com/UnicaPowerSystem/.github/blob/main/profile/Ghiani_photo.png" width=270 height=270 title="EmilioGhiani"></td>
+    <td><img src="https://github.com/UnicaPowerSystem/.github/blob/main/profile/Celli_photo.png" width=270 height=270 title="GianniCelli"></td>
   </tr>
-  <tr>
-    <div align="center">
+  <tr align="center" valign="center">
     <td>Fabrizio Pilo</td>
     <td>Emilio Ghiani</td>
     <td>Gianni Celli</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/UnicaPowerSystem/.github/blob/main/profile/Pisano_photo.png" width=270 height=270 title="GiudittaPisano"></td>
+    <td><img src="https://github.com/UnicaPowerSystem/.github/blob/main/profile/Ruggeri_photo.png" width=270 height=270 title="SimonaRuggeri"></td>
+    <td><img src="https://github.com/UnicaPowerSystem/.github/blob/main/profile/GG_photo.png" width=270 height=270 title="GGSoma"></td>
+  </tr>
+  <tr align="center" valign="center">
+    <td>Giuditta Pisano</td>
+    <td>Simona Ruggeri</td>
+    <td>Gian Giuseppe Soma</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/UnicaPowerSystem/.github/blob/main/profile/Mocci_photo.png" width=270 height=270 title="SusannaMocci"></td>
+    <td><img src="https://github.com/UnicaPowerSystem/.github/blob/main/profile/Natale_photo.png" width=270 height=270 title="NicolaNatale"></td>
+    <td><img src="https://github.com/UnicaPowerSystem/.github/blob/main/profile/Mousavi_photo.png" width=270 height=270 title="MaryamMousavi"></td>
+  </tr>
+  <tr align="center" valign="center">
+    <td>Susanna Mocci</td>
+    <td>Nicola Natale</td>
+    <td>Maryam Mousavi</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/UnicaPowerSystem/.github/blob/main/profile/Galici_photo.png" width=270 height=270 title="Marco Galici"></td>
+  </tr>
+  <tr align="center" valign="center">
+    <td>Marco Galici</td>
   </tr>
  </table>
 
