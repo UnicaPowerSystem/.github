@@ -3,7 +3,11 @@
 [![Contributors][contributors-shield2]][contributors-url2]
 [![LinkedIn 2nd Author][linkedin-shield2]][linkedin-url-2nd]
 
-# ![Unica Logo](https://github.com/UnicaPowerSystem/.github/blob/main/profile/logo-unica.jpg)
+<!-- ![Unica Logo](https://github.com/UnicaPowerSystem/.github/blob/main/profile/logo-unica.jpg) -->
+
+<p align="center">
+  <img src="https://github.com/UnicaPowerSystem/.github/blob/main/profile/logo-unica.jpg" />
+</p>
 
 <!-- PROJECT LOGO -->
 <!-- <br /> -->
