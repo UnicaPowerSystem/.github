@@ -8,7 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/UnicaPowerSystem/.github/profile/">
+  <a href="https://github.com/UnicaPowerSystem/.github/blob/main/profile/">
     <img src="logo-unica.jpg" alt="Logo" width="200" height="200">
   </a>
 
