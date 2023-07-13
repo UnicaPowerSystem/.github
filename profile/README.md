@@ -5,26 +5,20 @@
 
 <!-- ![Unica Logo](https://github.com/UnicaPowerSystem/.github/blob/main/profile/logo-unica.jpg) -->
 
-<p align="center">
-  <img src="https://github.com/UnicaPowerSystem/.github/blob/main/profile/logo-unica.jpg" />
-</p>
-
 <!-- PROJECT LOGO -->
-<!-- <br /> -->
-<!-- <div align="center"> -->
-<!--  <a href="https://github.com/UnicaPowerSystem/.github/blob/main/profile/"> -->
-<!--    <img src="logo-unica.jpg" alt="Logo" width="200" height="200"> -->
-<!--  </a> -->
-
-<!-- <h3 align="center">Power System Group - Università di Cagliari</h3> -->
-
-<!--  <p align="center"> -->
-<!--    <br /> -->
-<!--    <a href="https://web.unica.it/unica/en/dip_ingelettrica.page"><strong>Discover the group »</strong></a> -->
-<!--    <br /> -->
-<!--    <br /> -->
-<!--  </p> -->
-<!-- </div> -->
+<br />
+<div align="center">
+  <img src="https://github.com/UnicaPowerSystem/.github/blob/main/profile/logo-unica.jpg" />
+</a>
+  <h3 align="center">Power System Group - Università di Cagliari</h3>
+  <p align="center">
+    <br />
+    <a href="https://web.unica.it/unica/en/dip_ingelettrica.page"><strong>Discover the group »</strong>
+    </a>
+    <br />
+    <br />
+  </p>
+</div>
 
 
 
