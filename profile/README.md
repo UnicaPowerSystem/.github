@@ -71,7 +71,7 @@ The Power System Group of the University of Cagliari work on the following topic
 ## Members
 <table>
   <tr>
-    <td><img src="screenshots/Screenshot_1582745092.png" width=270 height=480></td>
+    <td><img src="https://github.com/UnicaPowerSystem/.github/blob/main/profile/Pilo_photo.jpg" width=270 height=480></td>
     <td><img src="screenshots/Screenshot_1582745125.png" width=270 height=480></td>
     <td><img src="screenshots/Screenshot_1582745139.png" width=270 height=480></td>
   </tr>
