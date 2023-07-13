@@ -58,6 +58,7 @@ The Power System Group of the University of Cagliari work on the following topic
 ### The Power System Group work with
 * [![Python][Python-shield]][Python-url]
 * [![Gurobi][Gurobi-shield]][Gurobi-url]
+* [![MatLab][MatLab-shield]][MatLab-url]
 
 <!-- <p align="right"><a href="#top">🔼 Back to top</a></p> -->
 
@@ -77,3 +78,5 @@ The Power System Group of the University of Cagliari work on the following topic
 [Python-url]: https://www.python.org/
 [Gurobi-shield]: https://img.shields.io/badge/Gurobi-py-red
 [Gurobi-url]: https://www.gurobi.com/
+[MatLab-shield]: https://img.shields.io/badge/MatLab-mat-%23A04000
+[MatLab-url]: https://www.mathworks.com/products/matlab.html
