@@ -59,6 +59,9 @@ The Power System Group of the University of Cagliari work on the following topic
 * [![Python][Python-shield]][Python-url]
 * [![Gurobi][Gurobi-shield]][Gurobi-url]
 * [![MatLab][MatLab-shield]][MatLab-url]
+* [![OpenDSS][OpenDSS-shield]][OpenDSS-url]
+* [![DIgSILENT][DIgSILENT-shiled]][DIgSILENT-url]
+* [![RSCAD][RSCAD-shield]][RSCAD-url]
 
 <!-- <p align="right"><a href="#top">🔼 Back to top</a></p> -->
 
@@ -80,3 +83,9 @@ The Power System Group of the University of Cagliari work on the following topic
 [Gurobi-url]: https://www.gurobi.com/
 [MatLab-shield]: https://img.shields.io/badge/MatLab-mat-%23A04000
 [MatLab-url]: https://www.mathworks.com/products/matlab.html
+[OpenDSS-shield]: https://img.shields.io/badge/OpenDSS-dss-%23BCAEAA
+[OpenDSS-url]: https://sourceforge.net/projects/electricdss/
+[DIgSILENT-shiled]: https://img.shields.io/badge/DIgSILENT-pfd-%237D2208
+[DIgSILENT-url]: https://www.digsilent.de/en/
+[RSCAD-shield]: https://img.shields.io/badge/RSCAD-dfx-%231463DE
+[RSCAD-url]: https://www.rtds.com
