@@ -3,24 +3,24 @@
 [![Contributors][contributors-shield2]][contributors-url2]
 [![LinkedIn 2nd Author][linkedin-shield2]][linkedin-url-2nd]
 
-
+# ![Unica Logo](https://github.com/UnicaPowerSystem/.github/blob/main/profile/logo-unica.jpg)
 
 <!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/UnicaPowerSystem/.github/blob/main/profile/">
-    <img src="logo-unica.jpg" alt="Logo" width="200" height="200">
-  </a>
+<!-- <br /> -->
+<!-- <div align="center"> -->
+<!--  <a href="https://github.com/UnicaPowerSystem/.github/blob/main/profile/"> -->
+<!--    <img src="logo-unica.jpg" alt="Logo" width="200" height="200"> -->
+<!--  </a> -->
 
-<h3 align="center">Power System Group - Università di Cagliari</h3>
+<!-- <h3 align="center">Power System Group - Università di Cagliari</h3> -->
 
-  <p align="center">
-    <br />
-    <a href="https://web.unica.it/unica/en/dip_ingelettrica.page"><strong>Discover the group »</strong></a>
-    <br />
-    <br />
-  </p>
-</div>
+<!--  <p align="center"> -->
+<!--    <br /> -->
+<!--    <a href="https://web.unica.it/unica/en/dip_ingelettrica.page"><strong>Discover the group »</strong></a> -->
+<!--    <br /> -->
+<!--    <br /> -->
+<!--  </p> -->
+<!-- </div> -->
 
 
 
