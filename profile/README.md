@@ -28,17 +28,8 @@
   <ol>
     <li><a href="#about-the-group">About The Group</a>
       <ul>
-        <li><a href="#built-with">Work With</a></li>
+        <li><a href="#the-power-system-group-work-with">We work with with</a></li>
       </ul>
-      <li><a href="#mathematical-formulation">The Optimisation Problems</a>
-      <ul>
-        <li><a href="#the-distribution-locational-marginal-price-model">Distribution Locational Marginal Price Model</a></li>
-        <li><a href="#the-storage-system-model">Storage System Model</a></li>
-        <li><a href="#the-auction-model-of-the-complex-bids-market">Auction Model</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
   </ol>
 </details>
 
@@ -63,8 +54,8 @@ The Power System Group of the University of Cagliari work on the following topic
 8. Neural networks and optimisation techniques based on artificial intelligence and evolutionary algorithms
 
 
-<!-- Built With -->
-### Built With
+<!-- We work with -->
+### The Power System Group work with
 * [![Python][Python-shield]][Python-url]
 * [![Gurobi][Gurobi-shield]][Gurobi-url]
 
