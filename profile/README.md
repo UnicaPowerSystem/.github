@@ -63,7 +63,7 @@ The Power System Group of the University of Cagliari work on the following topic
 * [![DIgSILENT][DIgSILENT-shiled]][DIgSILENT-url]
 * [![RSCAD][RSCAD-shield]][RSCAD-url]
 
-<!-- <p align="right"><a href="#top">🔼 Back to top</a></p> -->
+<p align="right"><a href="#top">🔼 Back to top</a></p>
 
 
 
