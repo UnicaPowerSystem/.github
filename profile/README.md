@@ -1,4 +1,4 @@
-## Hey, this is the Power System Group from University of Cagliari 👋
+<!-- ## Hey, this is the Power System Group from University of Cagliari 👋 -->
 
 <!-- [![Contributors][contributors-shield2]][contributors-url2] -->
 <!-- [![LinkedIn 2nd Author][linkedin-shield2]][linkedin-url-2nd] -->
