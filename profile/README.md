@@ -102,10 +102,8 @@ The Power System Group of the University of Cagliari work on the following topic
   </tr>
   <tr>
     <td><img src="https://github.com/UnicaPowerSystem/.github/blob/main/profile/Galici_photo.png" width=270 height=270 title="Marco Galici"></td>
-    <td><img src="https://github.com/UnicaPowerSystem/.github/blob/main/profile/Galici_photo.png" width=270 height=270 title="Marco Galici"></td>
   </tr>
   <tr align="center" valign="center">
-    <td>Marco Galici</td>
     <td>Riccardo Trevisan</td>
   </tr>
  </table>
